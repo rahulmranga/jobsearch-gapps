@@ -16,12 +16,12 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ### Then run the following (In Order)
 
-### pip install -r requirements.txt
+### `pip install -r requirements.txt`
 
-### npm install
+### `npm install`
 
-### npm run build
+### `npm run build`
 
-### flask run
+### `flask run` or `python app.py`
 
-### Visit website at 127.0.0.1:5000
+### `Visit website at 127.0.0.1:5000`

@@ -1,0 +1,8 @@
+Install npm and pip
+Create a postgres db called "jobpostings" and a table named "listings"
+Then run the following (In Order)
+
+pip install -r requirements.txt
+npm install
+npm run build
+flask run and then go to specific port

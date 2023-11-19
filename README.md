@@ -14,6 +14,6 @@ Instructions:
 
 ### `npm run build`
 
-### `flask run` or `python app.py`
+### `python app.py`
 
-### `Visit website at 127.0.0.1:5000`
+### `Visit website at 127.0.0.1:5069`

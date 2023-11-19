@@ -12,7 +12,7 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### Create a postgres db called "jobpostings" and a table named "listings"
+### Create a [postgres] (https://www.prisma.io/dataguide/postgresql/setting-up-a-local-postgresql-database) db called "jobpostings" and a table named "listings"
 
 ### Then run the following (In Order)
 

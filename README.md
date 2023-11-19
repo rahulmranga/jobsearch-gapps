@@ -2,15 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Make sure you have pip and npm installed!
 
 ### Create a [postgres] (https://www.prisma.io/dataguide/postgresql/setting-up-a-local-postgresql-database) db called "jobpostings" and a table named "listings"
 

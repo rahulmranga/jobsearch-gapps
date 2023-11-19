@@ -1,9 +1,10 @@
-# Getting Started with Create React App
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Make sure you have pip and npm installed!
-Create a [postgres](https://www.prisma.io/dataguide/postgresql/setting-up-a-local-postgresql-database) db called "jobpostings" and a table named "listings"
+Note: Make sure you have pip and npm installed!
+
+Instructions:
+
+### Create a [postgres](https://www.prisma.io/dataguide/postgresql/setting-up-a-local-postgresql-database) db called "jobpostings" and a table named "listings"
 
 ### Then run the following (In Order)
 
